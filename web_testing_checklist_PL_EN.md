@@ -46,7 +46,7 @@
 - [ ] **(EN)** Successful actions show a clear confirmation (message, redirect, updated list).  
       **(PL)** Pomyślne akcje wyświetlają wyraźne potwierdzenie (komunikat, przekierowanie, zaktualizowana lista).
 - [ ] **(EN)** Special characters, long text and edge cases (empty, spaces, emojis) are handled gracefully.  
-      **(PL)** Znaki specjalne, długi tekst i przypadki brzegowe (puste, spacje, emoji) są obsłużone poprawnie.
+      **(PL)** Znaki specjalne, długi tekst i przypadki graniczne (puste, spacje, emoji) są obsłużone poprawnie.
 - [ ] **(EN)** Password fields hide input and allow secure paste (password managers).  
       **(PL)** Pola hasła ukrywają wpisywany tekst i pozwalają na wklejanie z menedżera haseł.
 
