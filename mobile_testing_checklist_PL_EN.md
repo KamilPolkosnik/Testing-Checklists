@@ -10,7 +10,7 @@
 - [ ] **(EN)** The app installs and uninstalls cleanly from the store or APK/IPA.  
       **(PL)** Aplikacja poprawnie się instaluje i odinstalowuje ze sklepu lub z pliku APK/IPA.
 - [ ] **(EN)** First launch is not extremely slow and shows some kind of progress if needed.  
-      **(PL)** Pierwsze uruchomienie nie trwa „wieczność” i pokazuje jakiś postęp, jeśli to konieczne.
+      **(PL)** Pierwsze uruchomienie nie trwa zbyt długo i pokazuje jakiś postęp, jeśli to konieczne.
 - [ ] **(EN)** Permission requests appear only when needed and are clearly explained.  
       **(PL)** Prośby o uprawnienia pojawiają się tylko wtedy, gdy są potrzebne, i są jasno wyjaśnione.
 - [ ] **(EN)** The app behaves reasonably if I deny some permissions (shows a helpful message).  
@@ -22,10 +22,10 @@
 
 - [ ] **(EN)** Login, logout and registration flows work as expected.  
       **(PL)** Logowanie, wylogowanie i rejestracja działają zgodnie z oczekiwaniem.
-- [ ] **(EN)** Error messages for wrong credentials are clear but do not expose details.  
-      **(PL)** Komunikaty błędów przy złych danych logowania są jasne, ale nie zdradzają szczegółów.
-- [ ] **(EN)** “Remember me”, “Stay logged in” or similar options behave consistently.  
-      **(PL)** Opcje typu „Zapamiętaj mnie” lub „Pozostań zalogowany” działają konsekwentnie.
+- [ ] **(EN)** Error messages for wrong credentials are clear but do not expose app details.  
+      **(PL)** Komunikaty błędów przy złych danych logowania są jasne, ale nie zdradzają szczegółów budowy aplikacji.
+- [ ] **(EN)** “Remember me”, “Stay logged in” or similar options behave.  
+      **(PL)** Opcje typu „Zapamiętaj mnie” lub „Pozostań zalogowany” działają.
 - [ ] **(EN)** Biometric login (fingerprint/face) works if available, and can be turned off.  
       **(PL)** Logowanie biometryczne (odcisk palca/twarz) działa, jeśli jest dostępne, i można je wyłączyć.
 
@@ -61,10 +61,8 @@
 
 - [ ] **(EN)** The app shows a clear message when there is no internet connection.  
       **(PL)** Aplikacja pokazuje jasny komunikat, gdy nie ma połączenia z internetem.
-- [ ] **(EN)** The app recovers gracefully after connection returns (no stuck loaders).  
-      **(PL)** Aplikacja „dochodzi do siebie” po powrocie internetu (brak wiszących loaderów).
-- [ ] **(EN)** Data is refreshed in a reasonable way (pull to refresh or automatic reload).  
-      **(PL)** Dane są odświeżane w rozsądny sposób (przeciągnij, aby odświeżyć lub automatyczne przeładowanie).
+- [ ] **(EN)** Data is refreshed.  
+      **(PL)** Dane są odświeżane.
 - [ ] **(EN)** If offline mode is supported, it is clearly explained and works reliably.  
       **(PL)** Jeśli tryb offline jest wspierany, jest jasno opisany i działa przewidywalnie.
 
@@ -72,10 +70,10 @@
 
 ## 6. Push Notifications / Powiadomienia push
 
-- [ ] **(EN)** The app asks for notification permission at a sensible moment (not instantly on first launch).  
-      **(PL)** Aplikacja prosi o zgodę na powiadomienia w sensownym momencie (nie od razu przy pierwszym uruchomieniu).
+- [ ] **(EN)** The app asks for notification permission.  
+      **(PL)** Aplikacja prosi o zgodę na powiadomienia.
 - [ ] **(EN)** Notifications contain useful text and lead to the correct screen when tapped.  
-      **(PL)** Powiadomienia zawierają przydatny tekst i po tapnięciu prowadzą do właściwego ekranu.
+      **(PL)** Powiadomienia zawierają przydatny tekst i po "tapnięciu" prowadzą do właściwego ekranu.
 - [ ] **(EN)** Turning notifications on/off in the app actually changes behavior.  
       **(PL)** Włączenie/wyłączenie powiadomień w aplikacji faktycznie zmienia jej zachowanie.
 
